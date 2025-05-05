@@ -24,8 +24,8 @@
 
 ## 역할
 
-### 조규성
-| Leader |
+### 조규성 : Leader
+| 게이트웨이, 인증/인가, 사용자, 쿠폰 |
 |-------|
 | Eureka Server : https://github.com/LIMITED-TEAM25/eureka-server |
 | API Gateway : https://github.com/LIMITED-TEAM25/api-gateway |
@@ -36,22 +36,22 @@
 | User Coupon Consumer : https://github.com/LIMITED-TEAM25/user-coupon-consumer |
 ---
 
-### 엄은진
-| Sub-Leader |
+### 엄은진 : Sub-Leader
+| 주문, 경매 |
 |-------|
 | auction Service : https://github.com/LIMITED-TEAM25/auction-service |
 | Order Service : https://github.com/LIMITED-TEAM25/order-service |
 ---
 
-### 이소현
-| Member |
+### 이소현 : Member
+| 상품, 한정 판매 |
 |-------|
 | Limited Service : https://github.com/LIMITED-TEAM25/limited-service |
 | Product Service : https://github.com/LIMITED-TEAM25/product-service |
 ---
 
-### 안중건
-| Member |
+### 안중건 : Member
+| 공통 모듈, 체험단 |
 |-------|
 | Preuser Service : https://github.com/LIMITED-TEAM25/preuser-service |
 | Common Module : https://github.com/LIMITED-TEAM25/common-module |
